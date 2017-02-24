@@ -1,6 +1,6 @@
 # KewlRouter.js
 
-A simple JS router I use for my personal web apps. I built this for educational purposes, so feel free to look into the source and critique.
+A simple JS router I use for my personal web apps (~100 lines). I built this for educational purposes, so feel free to look into the source and critique.
 
 Example web app: http://nims11.com/dota2-twitch-recommender/
 
